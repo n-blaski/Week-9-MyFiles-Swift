@@ -32,7 +32,7 @@ class LoadExternalViewController: UIViewController {
     func LoadExternalPDF()
     {
         //webview.loadLocalPDF("testers")
-        webview.loadExternalPDF("http://ckonkol.com/wp-content/uploads/2015/02/Spring-2015-Apps-CIS280-3.pdf")
+        webview.loadExternalPDF("http://ckonkol.com/cis280/Fall2015AppsCIS280.pdf")
     }
     /*
     // MARK: - Navigation
